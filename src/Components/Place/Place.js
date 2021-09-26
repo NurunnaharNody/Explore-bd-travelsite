@@ -13,7 +13,7 @@ const Place = (props) => {
             <h2>Name: {name}</h2>
             <h4>Location: {Location} </h4>
             <h4>Resort: {Resort} </h4>
-            <h5>Buses: {buses} </h5>
+            <h4>Buses: {buses} </h4>
             <h4 className="cost">Cost: {cost} </h4>
             <button onClick={() => props.handleAddedTotal(props.place)} className="add-button">{element}Add place</button>
         </div>
