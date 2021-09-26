@@ -1,0 +1,97 @@
+[
+    {
+      "name": "Shajek",
+      "img": "https://i.ibb.co/dDSjWS8/Shajek.png",
+      "Location": "Khagrachori, Rangamati",
+      "buses": "Hanif, Ena, london Express",
+      "cost": 3500
+    },
+    {
+      "name": "Kaptai Lake",
+      "img": "https://i.ibb.co/5WS05y3/Kaptai.png",
+      "Location": "Rangamati",
+      "Resort": "Tuk Tuk Eco Village",
+      "buses": "Hanif, Shamoli",
+      "cost": 4000
+    },
+    {
+      "name": "Kantaji Temple",
+      "img": "https://i.ibb.co/dGjMt0V/Kantajir.png",
+      "Location": "Dinajpur",
+      "Resort": "Parjatan Motel Dinajpur",
+      "buses": "Saudia Paribahan Dhaka",
+      "cost": 5000
+    },
+    {
+      "name": "Shopnopuri",
+      "img": "https://i.ibb.co/NsjjGKR/Untitled-design.png",
+      "Location": "Nowabgonj,Dinajpur",
+      "Resort": "Hotel Diamond, Dinajpur",
+      "buses": "Shamoli Paribahan, SR travels",
+      "cost": 5500
+    },
+    {
+      "name": "Shremongol",
+      "img": "https://i.ibb.co/CPVGNY3/Shremongol.png",
+      "Location": "MouloviBazar, Sylhet",
+      "Resort": "Grand Sultan Tea Resort & Golf",
+      "buses": "Shamoli Paribahan, Saudia Paribahan",
+      "cost": 5500
+    },
+    {
+      "name": "Shitakundu",
+      "img": "https://i.ibb.co/Hr75thx/Shitakundu.png",
+      "Location": "Chittagong",
+      "Resort": "Chittagang Paris hotel",
+      "buses": "Shamoli Paribahan, Hanif",
+      "cost": 2500
+    },
+    {
+      "name": "Coxs Bazar",
+      "img": "https://i.ibb.co/VCrzttj/Coxsbazar.png",
+      "Location": "Coxs Bazar, Chittagang",
+      "Resort": "Sea Resort",
+      "buses": "Mohanagar Provati, Shubarna Express, Air",
+      "cost": 6500
+    },
+    {
+      "name": "Chittagong Hill",
+      "img": "https://i.ibb.co/9c6nSsV/Hill.png",
+      "Location": "Chittagang",
+      "Resort": "Shahi sultan Resort",
+      "buses": "Hanif, Desh Travel",
+      "cost": 5500
+    },
+    {
+      "name": "SundorBan",
+      "img": "https://i.ibb.co/Jj8LCrX/Untitled-design-4.png",
+      "Location": "Khulna",
+      "Resort": "Eco resort",
+      "buses": "Sundarban Express",
+      "cost": 4500
+    },
+    {
+      "name": "St. Martins Island",
+      "img": "https://i.ibb.co/7t0dWvc/Untitled-design-3.png",
+      "Location": "CoxsBazar Chittagang",
+      "Resort": "Sea-side Resort",
+      "buses": "Shamoli Paribahan, Coxs Travel",
+      "cost": 8500
+    },
+    {
+      "name": "Jaflong",
+      "img": "https://i.ibb.co/dPNxB9c/Untitled-design-5.png",
+      "Location": "MouloviBazar, Sylhet",
+      "Resort": "Gowaniaghat Resort",
+      "buses": "Ss travel, Hanif",
+      "cost": 3500
+    },
+    {
+      "name": "Sonargao",
+      "img": "https://i.ibb.co/86s2TXr/Untitled-design-1.png",
+      "Location": "Narayangonj, Dhaka",
+      "Resort": "Sadarbari resort",
+      "buses": "Hanif, Sonargao Express",
+      "cost": 5500
+    }
+  ]
