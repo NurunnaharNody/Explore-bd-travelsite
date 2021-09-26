@@ -1,0 +1,35 @@
+  /* card styles  */
+
+.place-style{
+    border:1px solid rgb(155, 152, 152);
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgb(194, 248, 162);
+    
+}
+/* card style hover  */
+.place-style:hover{
+    box-shadow: 3px 3px 4px grey;
+}
+/* image styles for card  */
+.place-style img{
+    height: 150px;
+    width:250px;
+    padding: 15px;
+}
+.cost{
+    font-weight: bolder;
+    font-size: 20px;
+}
+/* button styles  */
+.add-button{
+    background-color: rgb(5, 90, 12);
+    color: white;
+    font-weight: 900;
+    width: 140px;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+.add-button:hover{
+    border: 1px solid black;
+}

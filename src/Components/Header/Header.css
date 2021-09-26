@@ -1,16 +1,29 @@
+ /* header styles  */
 .header{
     text-align: center;
 }
+.title{
+    font-weight: 900;
+    font-size: 50px;
+    color: rgb(5, 32, 2);
+}
+.header span{
+    color: rgb(5, 97, 9);
+}
+/* header nav styles  */
 .header nav{
-    background-color: rgb(19, 7, 46);
-    line-height: 50px;
+    background-color: rgba(9, 75, 19, 0.972);
+    line-height: 70px;
 }
 .header nav a{
     text-decoration: none;
     color:rgb(253, 253, 253);
-    margin-right: 40px;
-    padding: 10px;
+    margin-right: 60px;
+    padding: 5px;
+    font-weight: bolder;
+    font-size: 25px;
 }
+/* header nav hover  */
 .header nav a:hover{
-    background-color: darkgrey;
+    background-color: rgb(126, 182, 112);
 }

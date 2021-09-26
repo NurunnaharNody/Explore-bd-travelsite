@@ -1,0 +1,13 @@
+/* sected names style  */
+.select-name{
+    display: flex;
+    padding: 30px 15px 5px 20px;
+}
+.select-name img{
+    height: 50px;
+}
+.select-name h3{
+    font-weight: bolder;
+    font-size: 20px;
+    margin-left: 10px;
+}
